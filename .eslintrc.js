@@ -35,6 +35,8 @@ module.exports = {
     'react/state-in-constructor': [2, 'never'],
     'react/prefer-stateless-function': [0, { 'ignorePureComponents': true }],
     'react/static-property-placement': [0],
-    'jsx-a11y/control-has-associated-label': [0]
+    'jsx-a11y/control-has-associated-label': [0],
+    'no-param-reassign': 'off',
+    'no-console': ["error", {allow: ["tron"]}]
   },
 };

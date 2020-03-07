@@ -7,12 +7,12 @@ export const ProductList = styled.ul`
   grid-gap: 20px;
   list-style: none;
 
-  /* @media screen and (max-width: 950px) {
+  @media screen and (max-width: 950px) {
     grid-template-columns: repeat(2, 1fr);
   }
   @media screen and (max-width: 600px) {
     grid-template-columns: repeat(1, 1fr);
-  } */
+  }
 
   li {
     display: flex;

@@ -5,6 +5,7 @@ export const Container = styled.div`
   padding: 30px;
   background: #fff;
   border-radius: 4px;
+  overflow-x: auto;
 
   footer {
     margin-top: 30px;
@@ -32,7 +33,8 @@ export const Container = styled.div`
 export const ProductTable = styled.table`
   width: 100%;
 
-  thead th {
+  thead th,
+  tbody th {
     color: #999;
     text-align: left;
     padding: 12px;
@@ -76,6 +78,10 @@ export const ProductTable = styled.table`
     background: none;
     border: 0;
     padding: 6px;
+  }
+
+  @media screen and (max-width: 600px) {
+    grid-template-columns: repeat(1, 1fr);
   }
 `;
 
