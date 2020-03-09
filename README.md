@@ -18,7 +18,7 @@ Some APIs and libraries used on this project:
 **axios**\
 **history**\
 **immer**\
-****polished**\
+**polished**\
 **prop-types**\
 **react**\
 **react-dom**\
