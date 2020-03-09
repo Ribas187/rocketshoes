@@ -27,7 +27,7 @@ Some APIs and libraries used on this project:
 **reactotron-react-js**\
 **reactotron-redux**\
 **reactotron-redux-saga**\
-**styled-components**\
+**styled-components**
 
 ### Instalation ###
 -- You need to have Json-server installed;
