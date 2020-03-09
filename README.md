@@ -12,22 +12,22 @@ Rocketshoes is an e-commerce built in ReactJS.
 
 Some APIs and libraries used on this project:
 
-**redux**
-**redux-saga**
-**react-redux**
-**axios**
-**history**
-**immer**
-****polished**
-**prop-types**
-**react**
-**react-dom**
-**react-icons**
-**react-toastify**
-**reactotron-react-js**
-**reactotron-redux**
-**reactotron-redux-saga**
-**styled-components**
+**redux**\
+**redux-saga**\
+**react-redux**\
+**axios**\
+**history**\
+**immer**\
+****polished**\
+**prop-types**\
+**react**\
+**react-dom**\
+**react-icons**\
+**react-toastify**\
+**reactotron-react-js**\
+**reactotron-redux**\
+**reactotron-redux-saga**\
+**styled-components**\
 
 ### Instalation ###
 -- You need to have Json-server installed;
